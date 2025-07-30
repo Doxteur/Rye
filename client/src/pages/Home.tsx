@@ -105,7 +105,7 @@ function Home() {
           >
             <Button size="lg" className="group bg-gradient-to-r from-primary to-primary/80 hover:from-primary/90 hover:to-primary/70 shadow-lg hover:shadow-xl transition-all duration-300">
               <Play className="mr-2 h-4 w-4" />
-              Commencer
+              Commencer rye
               <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
             </Button>
             <Button variant="outline" size="lg" className="group border-2 hover:border-primary hover:text-primary transition-all duration-300">
